@@ -1,1 +1,1 @@
-# alpha-juno-programmer
+# αJunoPG
